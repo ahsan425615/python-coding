@@ -22,6 +22,8 @@ vrt.insert(1, "pink")
 print(vrt)
 
 
+vrt.append("grey")
+print(vrt)
 
 
 
